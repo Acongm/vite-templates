@@ -6,9 +6,8 @@
 
     <br>
     <br>
-    
-    <NuxtLink to="/user-admin/111">进入管理员 id 为 111 的用户中心</NuxtLink>
-    
+
+    <NuxtLink to="/user-admin/111">进入管理员 id 为 111 的用户中心 </NuxtLink>
   </div>
 </template>
 
